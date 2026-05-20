@@ -5,7 +5,7 @@ A rigorous, database-focused Quality Assurance project dedicated to verifying th
 ---
 
 ## 🛠️ Author & Professional Profile
-**Natalia Montaña** *QA Engineer & Data Analytics Specialist* | Bogotá, Colombia  
+**Natalia Montaña** *QA Engineer & Customer Experience (CX) Specialist* | Bogotá, Colombia  
 
 ---
 
